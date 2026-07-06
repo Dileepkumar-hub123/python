@@ -1,0 +1,6 @@
+file=open("cse3.txt","r")
+c=file.readline()
+e=file.readline()
+print(c)
+print(e)
+file.close()
