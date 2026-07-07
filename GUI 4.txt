@@ -1,0 +1,7 @@
+from tkinter import *
+root=Tk()
+root.title("simple")
+root.geometry("300x200")
+Label=Label(root,text="dj")
+Label.pack()
+root.mainloop()
